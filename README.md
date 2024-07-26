@@ -24,6 +24,9 @@
   <a href="https://wa.me/5511954993461" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
+  <a href="mailto:ramalhol656@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    </a>
 </div>
 
 ###
@@ -56,6 +59,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lucasdev04/lucasdev04/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
-###
